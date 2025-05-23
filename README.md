@@ -110,11 +110,6 @@ Built for:
 TrendSageAI proudly supports:
 
 - [Thunderbird](https://www.thunderbird.net)
-- [HuggingFace](https://huggingface.co)
-- [FastAPI](https://fastapi.tiangolo.com)
-- [PostgreSQL](https://www.postgresql.org)
-- [Redis](https://redis.io)
-
 ---
 
 ## 🔒 License & Trademark
