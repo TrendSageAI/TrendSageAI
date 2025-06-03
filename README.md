@@ -125,4 +125,5 @@ Please do not use the name, logo or visual identity of this project without writ
 - 🌐 [https://trendsage.io](https://trendsage.io)
 - ✉️ contact@trendsage.io
 - 💬 Telegram bot (coming soon)
-- 🐦 [Twitter/X](https://x.com/TrendSageAI)
+- 🐦 [Twitter/X](https://x.com/TrendSage_Ofc)
+- 🎵 [TikTok](https://www.tiktok.com/@trendsageai_official)
